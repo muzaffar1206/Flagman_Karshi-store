@@ -11,3 +11,28 @@
         width: 95%;
     }
 }
+.footer{
+    height: 60vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer h1 {
+    color: #A3DE83;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.footer p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #A3DE83;
+    margin-top: 2rem; 
+    margin-bottom: 2rem;
+}
+.footer h6{
+    color: #5A5A5A;
+    margin-top: 1rem;
+}
